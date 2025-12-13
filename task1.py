@@ -1,7 +1,6 @@
 """
 task 1 :
-a = number 1
-b = number 2
+input two number a and b
 addition = a +b
 subtraction = a - b
 multiplication = a * b
@@ -14,11 +13,10 @@ add = a + b
 sub = a - b
 mul = a * b
 div = a / b
-print("number 1 :", a )
-print(" number 2",  b )
 print(" Addition :", add)
 print(" Subtraction :", sub)
 print(" Multiplication :", mul)
 print(" Division :", div)
+
 
 
